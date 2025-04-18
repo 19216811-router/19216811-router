@@ -1,6 +1,6 @@
 # 192.168.1.1 Router Admin Page
 
-A Node.js package to help manage and configure the router admin page at and detect Gateway IP https://www.19216811.to. This includes logging in, updating Wi-Fi settings, checking the router status, and more.
+A Node.js package to help manage and configure the router admin page at and detect Gateway IP https://www.19216811.to ,This includes logging in, updating Wi-Fi settings, checking the router status, and more.
 
 
 
