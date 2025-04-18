@@ -22,7 +22,7 @@ getRouterStatus().then(status => {
 
 
 ## Installation
-Install the `192.168.1.1-router-admin` package via npm:
+Install the `router-ip-detector` package via npm:
 
 ```bash
-npm install 192.168.1.1-router-admin
+npm install router-ip-detector
