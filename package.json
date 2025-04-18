@@ -1,0 +1,19 @@
+{
+  "name": "192.168.1.1-router-admin",
+  "version": "1.0.0",
+  "description": "A helper package for managing the 192.168.1.1 router admin page.",
+  "homepage": "https://www.19216811.to/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "web",
+    "url": "git+https://github.com/19216811-router/19216811-router.git"
+  },
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "author": "Osama",
+  "license": "ISC"
+}
